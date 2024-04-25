@@ -1,7 +1,5 @@
 import os
 
-os.chdir("/Users/dawid/PycharmProjects/")
-
 """
 Basic calculator
 """
